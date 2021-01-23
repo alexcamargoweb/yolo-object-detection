@@ -3,7 +3,7 @@ Detecção de Objetos com YOLO, Darknet, OpenCV e Python.
 
 Referência:
 
-Jones Granatyr, Detecção de Objetos com YOLO, Darknet, OpenCV e Python. PyImageSearch. Disponível em: https://iaexpert.academy/courses/deteccao-de-objetos-com-yolo-darknet-opencv-e-python/. Acessado em: 01/12/2020.
+Jones Granatyr, Detecção de Objetos com YOLO, Darknet, OpenCV e Python. IA Experts. Disponível em: https://iaexpert.academy/courses/deteccao-de-objetos-com-yolo-darknet-opencv-e-python/. Acessado em: 01/12/2020.
 
 Contato: 
 
